@@ -98,7 +98,7 @@ main().catch((error) => {
 EOL
 echo
 
-npx hardhat run scripts/deploy.js --network swisstronik
+npx 
 echo
 
 print_blue "Simple Contract deployment successful, Copy the above contract address and save it somewhere, you need to submit it in Testnet website"
